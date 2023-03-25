@@ -1,6 +1,4 @@
-//your JS code here. If required.
 //your code here
-// Input array of band names
 let bandNames = ["The Beatles", "Rolling Stones", "Led Zeppelin", "Pink Floyd", "The Who", "The Doors"];
 
 // Function to remove articles from band names
